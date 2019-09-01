@@ -14,7 +14,7 @@ This capstone repo is seperated into a set of mining parts. These parts are expl
 
 Use LDA to topic model to extract topics from all the review text, positive and negative reviews seperately and visualize the topics to understand what people have talked about in these reviews. Use wordcloud to visualize topic clusters.
 
-![Alt text](./CuisineSimilarity&Clustering/cuisineSimilarityMatrix.png?raw=true "Title")
+![Alt text](./2.CuisineSimilarity&Clustering/cuisineSimilarityMatrix.png?raw=true "Title")
 
 ## Part 2: Cuisine Similarity & Clustering
 
